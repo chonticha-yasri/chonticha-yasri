@@ -1,16 +1,25 @@
-### Hi there 👋
+### I’m just Data Scientist... ^^ 👋
 
-<!--
-**chonticha-yasri/chonticha-yasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 キリト - Chonticha Yasri (Cake) !! 🐍
 
-Here are some ideas to get you started:
+🎓 SU76 SC DS2\
+💼 Data Scientist Student in Silpakorn University
+💻 Python | R | SQL | TABLEAU | MACHINE LEARNING
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=chonticha-yasri&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=chonticha-yasri&count_private=true&include_all_commits=true&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chonticha-yasri&layout=compact&theme=cobalt" />
+</div>
+<br>
+<br>
+<br>
+
+
+---
+<br>
+<br>
